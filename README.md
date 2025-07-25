@@ -37,7 +37,10 @@ This project serves as an excellent learning resource for:
 - API integration and data handling
 - Responsive and user-friendly interface design
 
+## 📷 Screenshots
 
+> ![Dashboard Preview](https://github.com/Vikash3456/Dynamic-News-Digest-/blob/52e6cb0ec63ff47ee2624ecacb34e5c21958afba/assert/p1.png.png)
+---
 🤝 Contribute
 - Passionate about front-end development or news aggregation? Join the team! Contributions, issues, and feature requests are welcome.
 📚 Learn More
